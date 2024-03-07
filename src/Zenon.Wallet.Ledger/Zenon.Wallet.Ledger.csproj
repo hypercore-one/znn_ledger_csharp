@@ -22,9 +22,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="HidApi.Net" Version="1.0.0" />
+    <PackageReference Include="HidApi.Net" Version="1.0.2" />
     <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.0" />
-    <PackageReference Include="Zenon.Sdk" Version="0.6.9" />
+    <PackageReference Include="Zenon.Sdk" Version="0.6.10" />
   </ItemGroup>
 
   <ItemGroup>
